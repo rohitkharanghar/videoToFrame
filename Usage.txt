@@ -1,0 +1,4 @@
+How to use 
+In first comment enter the folder containing all the video files
+In second comment enter the folder where all the frames will be formed 
+In third comment enter the extension of the video files
